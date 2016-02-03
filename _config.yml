@@ -1,28 +1,40 @@
-name: Michael Pfister
-favicon: null
 layout_spectrum: 0.9805188113823533
-typography_spectrum: 0.023026589304208755
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
-color:
-  brandColors:
-    - '#3C493F'
-    - '#7E8D85'
-    - '#B3BFB8'
-    - '#F0F7F4'
-    - '#A2E3C4'
-  brandStrength: 0.01859385473653674
-  lightness: 0.6138829882256687
-  saturation: 0.3675983273424208
-  rhythmicContrast: 0.037779062520712614
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 purpose: []
+color:
+  saturation: 0.3675983273424208
+  brandStrength: 0.7352309
+  lightness: 0.6138829882256687
+  brandColors:
+    - '#4B536E'
+    - '#8086A4'
+    - '#272931'
+    - '#ABA3AC'
+    - '#8F5240'
+  rhythmicContrast: 0.03777906252071261
+typography_spectrum: 0.02302658930420876
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Michael Pfister
