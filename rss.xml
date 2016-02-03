@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Michael Pfister]]></title>
         <description><![CDATA[Michael Pfister]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/mik/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 03 Feb 2016 03:56:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 03 Feb 2016 03:57:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/mik/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[What the heck is social referral hacking?]]></title>
+            <description><![CDATA[<article><h1>What the heck is social referral hacking?</h1><p>Every pre-product launch or beta invitation these days has a some sort of social referral program. I’m talking about those cliched waiting lists that give your online friends and followers another reason to hate you. But it turns out most of these referral programs are really easy to game, and I’ve been first in line for the ones I care about.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e746ae916da3525e93e0b995e217be3968010b94.jpg"></article>]]></description>
+            <link>https://thegrid.ai/mik/0d2f7514-f6cf-4141-bc6a-882079551bb3/index.html</link>
+            <guid isPermaLink="false">0d2f7514-f6cf-4141-bc6a-882079551bb3</guid>
+            <pubDate>Wed, 03 Feb 2016 03:57:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Even easier ssh with ssh-copy-id]]></title>
             <description><![CDATA[<article><h1>Even easier ssh with ssh-copy-id</h1><p>There’s an awesome unix utility calledssh-copy-idthat installs your public key into a remote machine’s authorized_keys file. Before I knew it existed, I was constantly looking up the command I outlined in my previous posthere.</p></article>]]></description>
-            <link>undefinedeven-easier-ssh-with-ssh-copy-id/index.html</link>
+            <link>https://thegrid.ai/mik/even-easier-ssh-with-ssh-copy-id/index.html</link>
             <guid isPermaLink="false">6e9e52bb-a592-449d-943d-8729f3545881</guid>
             <pubDate>Wed, 03 Feb 2016 03:56:10 GMT</pubDate>
         </item>
